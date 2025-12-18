@@ -85,13 +85,13 @@
         <div class="contact-box">
           <div class="contact-title">立即咨询</div>
           <div class="contact-info-box">
-            <div class="contact-method">
+            <!-- <div class="contact-method">
               <span class="icon">📞</span>
               <span>电话：18600339383</span>
-            </div>
+            </div> -->
             <div class="contact-method">
               <span class="icon">💬</span>
-              <span>微信：y10121704</span>
+              <span>微信：Lxf;091;1888</span>
             </div>
           </div>
         </div>

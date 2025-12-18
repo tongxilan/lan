@@ -28,9 +28,9 @@
         <p class="highlight-text">
           北京市卓凡代办管理有限公司专业代开病历证明：
           <!-- <span class="contact-info">18600339383</span> 微信： -->
-          <span class="contact-info">『茄溦:  y10;12;17;04』如何开假医院诊断证明
-『茄溦:  y10;12;17;04』怎么弄到医院的诊断证明
-『茄溦:  y10;12;17;04』哪里可以代开医院住院证明/病假条</span>。
+          <span class="contact-info">『茄溦:  y10;12;17;07』如何开假医院诊断证明
+『茄溦:  y10;12;17;07』怎么弄到医院的诊断证明
+『茄溦:  y10;12;17;07』哪里可以代开医院住院证明/病假条</span>。
         </p>
         
         <p>
@@ -85,13 +85,13 @@
         <div class="contact-box">
           <div class="contact-title">立即咨询</div>
           <div class="contact-info-box">
-            <div class="contact-method">
+            <!-- <div class="contact-method">
               <span class="icon">📞</span>
               <span>电话：18600339383</span>
-            </div>
+            </div> -->
             <div class="contact-method">
               <span class="icon">💬</span>
-              <span>微信：y10121704</span>
+              <span>微信：y10121707</span>
             </div>
           </div>
         </div>
